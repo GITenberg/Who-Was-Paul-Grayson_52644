@@ -1,0 +1,43 @@
+_repo: Who-Was-Paul-Grayson_52644
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Thulstrup, Thure de
+    aliases:
+    - De Thulstrup, Thure
+    - Thulstrup, T. de (Thure de)
+    birthdate: 1848
+    deathdate: 1930
+    gutenberg_agent_id: '38324'
+    url: http://www.gutenberg.org/2009/agents/38324
+creator:
+  author:
+    agent_name: Habberton, John
+    birthdate: 1842
+    deathdate: 1921
+    gutenberg_agent_id: '1427'
+    url: http://www.gutenberg.org/2009/agents/1427
+    wikipedia: http://en.wikipedia.org/wiki/John_Habberton
+description: ''
+gutenberg_issued: '2016-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52644'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fathers and sons -- Juvenile fiction'
+- !lcsh 'Prisoners -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Teachers -- Juvenile fiction'
+- !lcsh 'Counterfeiters -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Music -- Juvenile fiction'
+- !lcsh 'Etiquette -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Who Was Paul Grayson?
+url: http://www.gutenberg.org/ebooks/52644
